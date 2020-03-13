@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0b667dc1229ff994e9ecae1ba936051d
+timeCreated: 1553795639
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rocket: {fileID: 1555088737320600, guid: 6ebf0eedc8006d542a133f726a4c4f11, type: 2}
+  - explosion: {fileID: 1801355347803596, guid: 0caf20d0265e421439b4b8c2f2f23ba4,
+      type: 2}
+  - spawnPoint: {instanceID: 0}
+  - shotSound: {instanceID: 0}
+  - reloadSound: {instanceID: 0}
+  - emptyGunSound: {instanceID: 0}
+  - explosionSound: {instanceID: 0}
+  - ammoText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
